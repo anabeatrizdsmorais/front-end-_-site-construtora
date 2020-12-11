@@ -1,7 +1,7 @@
 <h2 align="center">Trabalhos Acadêmicos - FRONT END ⭐</h2>
 
 <h2>💡 Descrição</h2>
-<p align="center">Trabalho acadêmico de Design Web, feito somente a parte front end.</p>
+<p>Trabalho acadêmico de Design Web, feito somente a parte front end.</p>
 
 
 <h2>🛠️ FrontEnd </h2>
